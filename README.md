@@ -1,16 +1,15 @@
-## Hi there 👋 It's me RAGUNATH
+## Hi there 👋 It's me Dineshkumar V
 
 <br><br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=HI+there+It's+me+Ragunath!;Web+Developer!;UI/UX+Designer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=HI+there+It's+me+Dineshkumar V!;Data+Analyst!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 
 
 <br>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://ragunathjayakumar.github.io/portfolio) 
                                                 
 - 🌱 I’m currently learning DSA
 
@@ -21,7 +20,7 @@
 - 💬 Ask me about Tech
 
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ragunath-j-728a28304/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/ragunath-j-728a28304](http://www.linkedin.com/in/dineshkumar-venkatachalapathi-4394412b8)/)
 
 - 😄 Pronouns: Techie
 
@@ -35,11 +34,6 @@
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>  <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=4VVL78edhbW9&format=png&color=000000"/>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ragunathjayakumar?theme=dark&font=Poppins&ext=activity)
-
-[![Ragunarhjayakumar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RagunathJayakumar&bg_color=000000&color=31d351&line=4c9e6c&point=1ddd2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 <p align="center">
